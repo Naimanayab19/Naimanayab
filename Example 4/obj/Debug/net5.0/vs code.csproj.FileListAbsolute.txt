@@ -1,0 +1,5 @@
+C:\Users\Jahanzaib Babar\Documents\vs code\obj\Debug\net5.0\vs code.csprojAssemblyReference.cache
+C:\Users\Jahanzaib Babar\Documents\vs code\obj\Debug\net5.0\vs code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jahanzaib Babar\Documents\vs code\obj\Debug\net5.0\vs code.AssemblyInfoInputs.cache
+C:\Users\Jahanzaib Babar\Documents\vs code\obj\Debug\net5.0\vs code.AssemblyInfo.cs
+C:\Users\Jahanzaib Babar\Documents\vs code\obj\Debug\net5.0\vs code.csproj.CoreCompileInputs.cache
